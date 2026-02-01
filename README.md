@@ -1,5 +1,7 @@
 # Java Docker Container Hardener
 
+**Created by Chris Bunting** <cbuntingde@gmail.com>
+
 An interactive script that generates secure, hardened Dockerfiles for Java applications based on your specific requirements.
 
 ## The Problem This Solves
