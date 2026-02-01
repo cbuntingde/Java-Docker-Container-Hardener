@@ -80,6 +80,11 @@ The script creates:
 - Microsoft OpenJDK
 - Azul Zulu
 
+### Application Types
+- **Executable JAR** - Spring Boot, Micronaut, Quarkus, or any standalone JAR
+- **WAR file** - Traditional servlet container applications (Tomcat, Jetty)
+- **Standard Java** - Applications with external dependencies/libraries
+
 ### Security Hardening Options
 - ✅ Run as non-root user
 - ✅ Security scanning metadata/labels
